@@ -1,2 +1,2 @@
 # devops
-class tutorials 
+class tutorials and assignments
